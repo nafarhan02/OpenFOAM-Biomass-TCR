@@ -1,0 +1,5 @@
+parcels/derived/basicBiomassReactingMultiphaseParcel/defineBasicBiomassReactingMultiphaseParcel.C
+parcels/derived/basicBiomassReactingMultiphaseParcel/makeBiomassReactingMultiphaseParcelSubmodels.C
+parcels/derived/basicBiomassReactingMultiphaseParcel/makeBiomassReactingMultiphaseParcelTurbulenceSubmodels.C
+
+LIB = $(FOAM_USER_LIBBIN)/libbiomassTCR

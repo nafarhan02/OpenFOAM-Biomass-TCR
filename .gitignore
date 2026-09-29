@@ -1,0 +1,26 @@
+# OpenFOAM build files
+Make/linux*
+**/Make/linux*
+lnInclude/
+**/lnInclude/
+
+# Compiler files
+*.o
+*.dep
+*.so
+
+# Logs
+log.*
+*.log
+
+# Temporary/backup files
+*.preTCR
+*.preZetaIO
+*~
+*.bak
+*.orig
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
